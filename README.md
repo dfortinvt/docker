@@ -1,2 +1,0 @@
-# docker
-playing with docker
